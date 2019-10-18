@@ -1,0 +1,11 @@
+/Users/nicholaspatterson/myApp/bin/Debug/netcoreapp3.0/myApp
+/Users/nicholaspatterson/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/Users/nicholaspatterson/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/Users/nicholaspatterson/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/Users/nicholaspatterson/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/Users/nicholaspatterson/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/Users/nicholaspatterson/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/Users/nicholaspatterson/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/Users/nicholaspatterson/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/Users/nicholaspatterson/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/Users/nicholaspatterson/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
